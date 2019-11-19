@@ -1,0 +1,28 @@
+
+.input-field div p {
+    /* border: 1px solid red; */
+    display: inline !important;
+    float: left;
+}
+
+.input-field div {
+    /* border: 1px solid red; */
+    padding-bottom: 10% !important;
+}
+
+.input-field div input {
+    display: inline !important;
+    width: 50% !important;
+    margin: 1px !important;
+    padding: 0px !important;
+    height: 20px !important;
+}
+
+.card-content.white-text {
+    padding: 10px !important;
+}
+.card-content.white-text div {
+    padding: 2px !important;
+    margin: 0px !important
+
+}
